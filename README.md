@@ -18,6 +18,9 @@ The dataset includes:
 - Enviromental factors
 - Educational paths/performance
 - Dropout rate
+
+The raw dataset is available here: [student_dropout_dataset_v3.cvs](data/raw/student_dropout_dataset_v3.cvs).
+
 --- 
 ## Data Cleaning 
 

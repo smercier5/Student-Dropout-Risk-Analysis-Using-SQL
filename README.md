@@ -22,7 +22,7 @@ The dataset includes:
 ## Data Cleaning 
 ---
 ## Exploratory Data Analysis (SQL)
-The SQl Quieries used to analyze the data are located in the **sql/** folder.
+The SQl Quieries used to analyze the data are located in the [sql folder](sql/analysis_queries.sql).
 
 Key analysis included: 
 - Data Cleaning Validation Queries

@@ -20,6 +20,14 @@ The dataset includes:
 - Dropout rate
 --- 
 ## Data Cleaning 
+
+Before analysis, the raw data required the following cleaning steps: 
+- Removed duplicate rows
+- Checked for null values
+- Checked for validity and range of important
+
+The cleaned dataset is availaable in the `data/processed` folder: [cleaned_dropoutdata.cvs](data/processed/cleaned_dropoutdata.cvs)
+
 ---
 ## Exploratory Data Analysis (SQL)
 The SQl Quieries used to analyze the data are located in the [sql folder](sql/analysis_queries.sql).

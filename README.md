@@ -19,7 +19,7 @@ The dataset includes:
 - Educational paths/performance
 - Dropout rate
 
-The raw dataset is available here: [student_dropout_dataset_v3.csv](data/raw/student_dropout_dataset_v3.csv).
+The raw dataset is available here: [student_dropout_dataset_v3.csv](Data/raw/student_dropout_dataset_v3.csv).
 
 --- 
 ## Data Cleaning 

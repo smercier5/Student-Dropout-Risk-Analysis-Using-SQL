@@ -29,7 +29,7 @@ Before analysis, the raw data required the following cleaning steps:
 - Checked for null values
 - Checked for validity and range of important
 
-The cleaned dataset is available in the `data/processed` folder: [cleaned_dropoutdata.cvs](data/processed/cleaned_dropoutdata.cvs)
+The cleaned dataset is available in the `data/processed` folder: [cleaned_dropoutdata.cvs.numbers](data/processed/cleaned_dropoutdata.cvs.numbers)
 
 ---
 ## Exploratory Data Analysis (SQL)

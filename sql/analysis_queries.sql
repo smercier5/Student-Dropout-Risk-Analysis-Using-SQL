@@ -62,6 +62,18 @@ SELECT
 FROM student_dropout_dataset
 GROUP BY Dropout;
 
+-- Average GPA, Attendance, and Stress (Dropout vs Non-Dropout)
+SELECT 
+    CASE 
+        WHEN Dropout = 1 THEN 'Dropped Out'
+        ELSE 'Stayed'
+    END AS student_status,
+    ROUND(AVG(GPA), 2) AS avg_gpa,
+    ROUND(AVG(Attendance_Rate), 2) AS avg_attendance,
+    ROUND(AVG(Stress_Index), 2) AS avg_stress
+FROM student_dropout_dataset
+GROUP BY Dropout;
+
 --------------------------------------------
 --Section 3 - Risk Segmentation Queries
 --------------------------------------------

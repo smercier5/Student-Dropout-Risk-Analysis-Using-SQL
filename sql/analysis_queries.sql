@@ -103,6 +103,28 @@ FROM student_dropout_dataset
 WHERE GPA < 2.5
 AND Attendance_Rate < 75;
 
+-- GPA vs Attendance Risk Matrix
+SELECT 
+    CASE 
+        WHEN GPA >= 3.5 THEN 'High GPA (3.5–4.0)'
+        WHEN GPA >= 2.5 THEN 'Medium GPA (2.5–3.49)'
+        ELSE 'Low GPA (<2.5)'
+    END AS gpa_group,
+
+    CASE
+        WHEN Attendance_Rate >= 90 THEN 'High Attendance (90–100)'
+        WHEN Attendance_Rate >= 75 THEN 'Medium Attendance (75–89)'
+        ELSE 'Low Attendance (<75)'
+    END AS attendance_group,
+
+    COUNT(*) AS total_students,
+    SUM(Dropout) AS dropouts,
+    ROUND(100.0 * SUM(Dropout) / COUNT(*), 2) AS dropout_rate
+
+FROM student_dropout_dataset
+GROUP BY gpa_group, attendance_group
+ORDER BY gpa_group, attendance_group;
+
 --------------------------------------------
 -- Section 4 - Insight Interpretation
 --------------------------------------------

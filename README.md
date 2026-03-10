@@ -46,4 +46,4 @@ Key analysis included:
 
 ### Dropout Rate by GPA and Attendance
 
-![Dropout Heatmap](visualizations/dropout_heatmap.png)
+![Dropout Heatmap](Visualizations/dropout_heatmap.png)

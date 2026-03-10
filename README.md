@@ -47,3 +47,7 @@ Key analysis included:
 ### Dropout Rate by GPA and Attendance
 
 ![Dropout Heatmap](Visualizations/dropout_heatmap.png)
+
+### Parental Education vs. Dropout 
+
+![Parental_Education vs Dropout](Visualizations/Parental_Education vs Dropout.png)

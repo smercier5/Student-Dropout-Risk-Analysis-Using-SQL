@@ -41,3 +41,9 @@ Key analysis included:
 - Risk Segmentation Queries
 - Insight Interpretation
 
+---
+## Visualizations
+
+### Dropout Rate by GPA and Attendance
+
+![Dropout Heatmap](visualizations/dropout_heatmap.png)

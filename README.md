@@ -54,3 +54,6 @@ Key analysis included:
 ### GPA, Attendance, Stress Index
 
 ![average_GPA_Attendance_Stress](Visualizations/average_GPA_Attendance_Stress.png)
+
+### Dropout Percentage by Department 
+![Dropout_by_department](Visualizations/Dropout_by_department.png)

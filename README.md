@@ -49,5 +49,4 @@ Key analysis included:
 ![Dropout Heatmap](Visualizations/dropout_heatmap.png)
 
 ### Parental Education vs. Dropout 
-
-![Parental_Education vs Dropout](Visualizations/Parental_Education vs Dropout.png)
+![Parental_education_vs_ dropout](Visualizations/Parental_education_vs_dropout.png)

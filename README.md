@@ -56,4 +56,9 @@ Key analysis included:
 ![average_GPA_Attendance_Stress](Visualizations/average_GPA_Attendance_Stress.png)
 
 ### Dropout Percentage by Department 
+
 ![Dropout_by_department](Visualizations/Dropout_by_department.png)
+
+### Dropout Percentage by Gender
+
+![Dropout_by_gender](Visualizations/Dropout_by_gender.png)

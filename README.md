@@ -2,6 +2,13 @@
 ## Project Overview 
 This project analyzes student dropout patterns using SQL to identify key academic and demographic factors associated with increased dropout risk.
 --- 
+
+## Business Questions
+• Which student characteristics are most associated with dropout risk?
+• Which departments experience the highest dropout rates?
+• How do academic performance and attendance impact student retention?
+
+---
 ## Tools used 
 - SQL 
 - Excel 

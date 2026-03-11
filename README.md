@@ -50,3 +50,7 @@ Key analysis included:
 
 ### Parental Education vs. Dropout 
 ![Parental_education_vs_ dropout](Visualizations/Parental_education_vs_dropout.png)
+
+### GPA, Attendance, Stress Index
+
+![average_GPA_Attendance_Stress](Visualizations/average_GPA_Attendance_Stress.png)

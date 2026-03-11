@@ -62,3 +62,21 @@ Key analysis included:
 ### Dropout Percentage by Gender
 
 ![Dropout_by_gender](Visualizations/Dropout_by_gender.png)
+
+## Key Insights
+
+• Students with both low GPA and low attendance exhibit the highest dropout rates.
+
+• Students in the Art department reported the highest dropout rate followed by Engineering.
+
+• Students whose parents have earned a Phd. reported a high dropout rate than those with Master or a Bachelor's degree.
+
+• Higher stress levels correlate with increased dropout likelihood.
+
+## Limitations
+
+• The dataset does not include financial information, which may influence dropout decisions.
+
+• Stress levels are self-reported and may contain bias.
+
+• The dataset represents a limited number of institutions.

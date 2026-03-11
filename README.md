@@ -1,6 +1,6 @@
 # Student-Dropout-Risk-Analysis-Using-SQL
 ## Project Overview 
-This project analyzes key risk factors associated with student dropout using SQL-based exploratory data analysis.
+This project analyzes student dropout patterns using SQL to identify key academic and demographic factors associated with increased dropout risk.
 --- 
 ## Tools used 
 - SQL 
